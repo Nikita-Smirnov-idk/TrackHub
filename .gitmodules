@@ -1,0 +1,6 @@
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/Nikita-Smirnov-idk/TrackHub-BackEnd.git
+[submodule "Frontend"]
+	path = Frontend
+	url = https://github.com/Nikita-Smirnov-idk/TrackHub-FrontEnd.git
